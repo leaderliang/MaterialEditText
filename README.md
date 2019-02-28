@@ -1,5 +1,7 @@
 # MaterialEditText
 MaterialEditText Demo
-![image](./img/music.jpg =100x100)
- 
 
+ 
+![image](./img/material_edittext.gif)
+ 
+ 
