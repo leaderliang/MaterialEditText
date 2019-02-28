@@ -1,2 +1,2 @@
 # MaterialEditText
-Material Design MaterialEditText Demo
+MaterialEditText Demo
