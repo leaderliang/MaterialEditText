@@ -1,4 +1,4 @@
 # MaterialEditText
 MaterialEditText Demo
 
-![image](./img/goodjob.gif)
+![image](img/material_edittext.gif)
